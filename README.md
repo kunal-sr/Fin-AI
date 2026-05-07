@@ -177,8 +177,6 @@ JWT_SECRET=your_secret_key
 
 # 📸 Screenshots
 
-> Add your project screenshots inside:
-
 <img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_54_21" src="https://github.com/user-attachments/assets/c35bb7f2-ebf1-49ab-85d3-b6f321527c2c" />
 <img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_44_09" src="https://github.com/user-attachments/assets/97b0c8cf-0543-4573-b4a9-d851068daa55" />
 <img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_55_21" src="https://github.com/user-attachments/assets/235cbca2-02bd-4335-8f4c-ed79acba4b1e" />
