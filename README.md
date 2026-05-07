@@ -179,16 +179,11 @@ JWT_SECRET=your_secret_key
 
 > Add your project screenshots inside:
 
-```bash
-financeMe/public/screenshot/
-```
+<img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_54_21" src="https://github.com/user-attachments/assets/c35bb7f2-ebf1-49ab-85d3-b6f321527c2c" />
+<img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_44_09" src="https://github.com/user-attachments/assets/97b0c8cf-0543-4573-b4a9-d851068daa55" />
+<img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_55_21" src="https://github.com/user-attachments/assets/235cbca2-02bd-4335-8f4c-ed79acba4b1e" />
+<img width="1920" height="1078" alt="Vite + React - Google Chrome 21-02-2025 09_42_08" src="https://github.com/user-attachments/assets/e3424768-30b0-43c3-8da6-629eea3ec3ca" />
 
-Then showcase them here:
-
-```md
-![Dashboard](./financeMe/public/screenshot/dashboard.png)
-![Analytics](./financeMe/public/screenshot/analytics.png)
-![AI Analysis](./financeMe/public/screenshot/ai-analysis.png)
 ```
 
 ---
